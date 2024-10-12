@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 I’m Web Developer<br>🔎 I’m looking for a job<br>🤝 I’m freelancer<br>🌱 learning<br>🌟 Code writer
+🌐 I’m Web Developer<br>🔎 I’m looking for a job<br>🤝 freelancer<br>🌱 learner<br>🌟 Code writer
 
 
 ## 🌐 Socials:
