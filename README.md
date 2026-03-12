@@ -2,7 +2,7 @@
 <h3 align="center">💻 Passionate Web Developer | 🚀 Job Seeker | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00C4CC&center=true&vCenter=true&lines=Web+Developer+&+Designer;MERN+Stack+Enthusiast;Freelancer;Creative+UI+Designer;Open+to+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C4CC&center=true&vCenter=true&lines=Web+Developer+|+Designer;MERN+Stack+Enthusiast;Freelancer;Creative+UI+Designer;Open+to+Work" />
 </p>
 
 ---
