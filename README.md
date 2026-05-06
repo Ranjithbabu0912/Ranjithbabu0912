@@ -61,18 +61,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ranjithbabu0912&theme=tokyonight&show_icons=true&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithbabu0912&theme=tokyonight&hide_border=true&layout=compact"/>
-</p>
-
----
-
 ## ✨ Quote I Believe  
 
 > “Code is not just syntax — it’s creativity, logic, and impact.”
